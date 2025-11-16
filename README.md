@@ -1,4 +1,5 @@
-🐋 Gojira Fan Site - GRF3511 Midterm Project
+# 🐋 Gojira Fan Site - GRF3511 Midterm Project
+
 📜 Description
 This project is a fan-made web site dedicated to the French progressive death metal band, Gojira. It was developed as a mid-term assignment for the GRF3511 Web Graphics I course at Muğla Sıtkı Koçman University.
 
