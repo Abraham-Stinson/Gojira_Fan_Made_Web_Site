@@ -23,3 +23,5 @@ HTML5: Semantic structure and content organization.
 CSS3: All styling is managed via a separate file (css/main.css), incorporating custom fonts (BebasNeueFont, Oswald-VariableFont), a repeating background pattern, and basic responsiveness.
 
 External Assets: Font Awesome is integrated for social media and media player icons.
+
+https://abraham-stinson.github.io/Gojira_Fan_Made_Web_Site
